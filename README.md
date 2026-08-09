@@ -2,7 +2,7 @@
 
 A SimCity-style city builder built for Meta Quest VR. Point, place, and grow your tiny city in 3D.
 
-🎮 **[Play it live →](https://samnode.github.io/sam_code/vr-city-sim/)**
+🎮 **[Play it live →](https://samnode.github.io/vr-city-sim/)**
 
 ## How to play
 
